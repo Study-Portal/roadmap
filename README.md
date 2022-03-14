@@ -2,6 +2,15 @@
 
 This is where you can read the roadmap for the official Study Portal platform.
 
+## Current status
+
+| Q/Year | Status |
+|--------|--------|
+| Q1 2022 | ✔️ On track |
+| Q2 2022 | ❔ Planned |
+| Q3 2022 | ❔ Planning |
+| Q4 2022 | ❔ Planning |
+
 ## How to use
 
 - Each thing that needs to be done is created into an issue.
