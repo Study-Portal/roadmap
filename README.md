@@ -7,7 +7,7 @@ This is where you can read the roadmap for the official Study Portal platform.
 | Q/Year | Status |
 |--------|--------|
 | Q1 2022 | ✔️ Completed |
-| Q2 2022 | ✔ Delayed |
+| Q2 2022 | ✔ Completed |
 | Q3 2022 | ✔️ In Progress |
 | Q4 2022 | ❔ Planning |
 
